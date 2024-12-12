@@ -1,0 +1,255 @@
+2024-12-12 00:58:32,521 - INFO - Incoming Request: {
+  "timestamp": "2024-12-12T00:58:32.520859",
+  "method": "POST",
+  "url": "http://fzn84ln.localto.net/",
+  "remote_addr": "127.0.0.1",
+  "path": "/",
+  "headers": {
+    "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15",
+    "Content-Type": "application/json",
+    "Content-Length": "72",
+    "Host": "fzn84ln.localto.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "body": {
+    "action": "GET_SERVICES",
+    "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+  }
+}
+2024-12-12 00:58:32,523 - INFO - API Response: {
+  "timestamp": "2024-12-12T00:58:32.523860",
+  "status_code": 200,
+  "headers": {
+    "Content-Type": "application/json",
+    "Content-Length": "556",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Headers": "Content-Type,Authorization,User-Agent,Accept-Encoding",
+    "Access-Control-Allow-Methods": "GET,PUT,POST,DELETE"
+  },
+  "body": {
+    "body": {
+      "action": "GET_SERVICES",
+      "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+    },
+    "headers": {
+      "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+      "Accept-Encoding": "gzip",
+      "Connection": "Keep-Alive",
+      "Content-Length": "72",
+      "Content-Type": "application/json",
+      "Host": "fzn84ln.localto.net",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+    },
+    "method": "POST",
+    "path": "/",
+    "remote_addr": "127.0.0.1",
+    "timestamp": "2024-12-12T00:58:32.520859",
+    "url": "http://fzn84ln.localto.net/"
+  }
+}
+2024-12-12 01:00:41,361 - INFO - Incoming Request: {
+  "timestamp": "2024-12-12T01:00:41.361617",
+  "method": "POST",
+  "url": "http://fzn84ln.localto.net/",
+  "remote_addr": "127.0.0.1",
+  "path": "/",
+  "headers": {
+    "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15",
+    "Content-Type": "application/json",
+    "Content-Length": "72",
+    "Host": "fzn84ln.localto.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "body": {
+    "action": "GET_SERVICES",
+    "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+  }
+}
+2024-12-12 01:00:41,363 - INFO - API Response: {
+  "timestamp": "2024-12-12T01:00:41.363622",
+  "status_code": 200,
+  "headers": {
+    "Content-Type": "application/json",
+    "Content-Length": "556",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Headers": "Content-Type,Authorization,User-Agent,Accept-Encoding",
+    "Access-Control-Allow-Methods": "GET,PUT,POST,DELETE"
+  },
+  "body": {
+    "body": {
+      "action": "GET_SERVICES",
+      "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+    },
+    "headers": {
+      "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+      "Accept-Encoding": "gzip",
+      "Connection": "Keep-Alive",
+      "Content-Length": "72",
+      "Content-Type": "application/json",
+      "Host": "fzn84ln.localto.net",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+    },
+    "method": "POST",
+    "path": "/",
+    "remote_addr": "127.0.0.1",
+    "timestamp": "2024-12-12T01:00:41.361617",
+    "url": "http://fzn84ln.localto.net/"
+  }
+}
+2024-12-12 01:00:55,702 - INFO - Incoming Request: {
+  "timestamp": "2024-12-12T01:00:55.702562",
+  "method": "POST",
+  "url": "http://fzn84ln.localto.net/",
+  "remote_addr": "127.0.0.1",
+  "path": "/",
+  "headers": {
+    "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15",
+    "Content-Type": "application/json",
+    "Content-Length": "72",
+    "Host": "fzn84ln.localto.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "body": {
+    "action": "GET_SERVICES",
+    "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+  }
+}
+2024-12-12 01:00:55,704 - INFO - API Response: {
+  "timestamp": "2024-12-12T01:00:55.704564",
+  "status_code": 200,
+  "headers": {
+    "Content-Type": "application/json",
+    "Content-Length": "556",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Headers": "Content-Type,Authorization,User-Agent,Accept-Encoding",
+    "Access-Control-Allow-Methods": "GET,PUT,POST,DELETE"
+  },
+  "body": {
+    "body": {
+      "action": "GET_SERVICES",
+      "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+    },
+    "headers": {
+      "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+      "Accept-Encoding": "gzip",
+      "Connection": "Keep-Alive",
+      "Content-Length": "72",
+      "Content-Type": "application/json",
+      "Host": "fzn84ln.localto.net",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+    },
+    "method": "POST",
+    "path": "/",
+    "remote_addr": "127.0.0.1",
+    "timestamp": "2024-12-12T01:00:55.702562",
+    "url": "http://fzn84ln.localto.net/"
+  }
+}
+2024-12-12 01:02:40,269 - INFO - Incoming Request: {
+  "timestamp": "2024-12-12T01:02:40.269387",
+  "method": "POST",
+  "url": "http://fzn84ln.localto.net/",
+  "remote_addr": "127.0.0.1",
+  "path": "/",
+  "headers": {
+    "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15",
+    "Content-Type": "application/json",
+    "Content-Length": "72",
+    "Host": "fzn84ln.localto.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "body": {
+    "action": "GET_SERVICES",
+    "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+  }
+}
+2024-12-12 01:02:40,270 - INFO - API Response: {
+  "timestamp": "2024-12-12T01:02:40.270385",
+  "status_code": 200,
+  "headers": {
+    "Content-Type": "application/json",
+    "Content-Length": "556",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Headers": "Content-Type,Authorization,User-Agent,Accept-Encoding",
+    "Access-Control-Allow-Methods": "GET,PUT,POST,DELETE"
+  },
+  "body": {
+    "body": {
+      "action": "GET_SERVICES",
+      "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+    },
+    "headers": {
+      "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+      "Accept-Encoding": "gzip",
+      "Connection": "Keep-Alive",
+      "Content-Length": "72",
+      "Content-Type": "application/json",
+      "Host": "fzn84ln.localto.net",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+    },
+    "method": "POST",
+    "path": "/",
+    "remote_addr": "127.0.0.1",
+    "timestamp": "2024-12-12T01:02:40.269387",
+    "url": "http://fzn84ln.localto.net/"
+  }
+}
+2024-12-12 01:06:46,141 - INFO - Incoming Request: {
+  "timestamp": "2024-12-12T01:06:46.140164",
+  "method": "POST",
+  "url": "http://fzn84ln.localto.net/",
+  "remote_addr": "127.0.0.1",
+  "path": "/",
+  "headers": {
+    "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15",
+    "Content-Type": "application/json",
+    "Content-Length": "72",
+    "Host": "fzn84ln.localto.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "body": {
+    "action": "GET_SERVICES",
+    "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+  }
+}
+2024-12-12 01:06:46,142 - INFO - API Response: {
+  "timestamp": "2024-12-12T01:06:46.142164",
+  "status_code": 200,
+  "headers": {
+    "Content-Type": "application/json",
+    "Content-Length": "556",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Headers": "Content-Type,Authorization,User-Agent,Accept-Encoding",
+    "Access-Control-Allow-Methods": "GET,PUT,POST,DELETE"
+  },
+  "body": {
+    "body": {
+      "action": "GET_SERVICES",
+      "key": "15431U1ea5e5b53572512438b03fbe8f96fa10"
+    },
+    "headers": {
+      "Accept": "text/html, image/gif, image/jpeg, *, application/json",
+      "Accept-Encoding": "gzip",
+      "Connection": "Keep-Alive",
+      "Content-Length": "72",
+      "Content-Type": "application/json",
+      "Host": "fzn84ln.localto.net",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+    },
+    "method": "POST",
+    "path": "/",
+    "remote_addr": "127.0.0.1",
+    "timestamp": "2024-12-12T01:06:46.140164",
+    "url": "http://fzn84ln.localto.net/"
+  }
+}
