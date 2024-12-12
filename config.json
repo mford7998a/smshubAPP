@@ -202,7 +202,7 @@
     "service_prices": {
         "default": 1.0
     },
-    "smshub_api_key": "15431U1ea5e5b53572512438b03fbe8f96fa10",
+    "smshub_api_key": "api key",
     "smshub_agent_id": "15431",
     "smshub_server_url": "https://smshub.org/stubs/handler_api.php",
     "auto_start_server": true,
